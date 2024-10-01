@@ -1,0 +1,29 @@
+body {
+    font-size: 62,5;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 255, 0.76);
+}
+
+h1,h2,h3,h4{
+    text-align: center;
+    text-align: justify;
+    color: white;
+}
+ul{
+    text-align: center;
+    text-align: justify;
+    color: white;
+
+}
+li{
+    text-align: center;
+    text-align: justify;
+    color: white;
+}
+
+footer {
+    font-size: large;
+    background-color: black;
+    color: white;
+}
